@@ -6,3 +6,12 @@ __pycache__/
 *.log
 *.log.err
 .DS_Store
+
+# Kaggle downloads + subsample (too large for git)
+data/
+sneakers-dataset-sample/
+*.zip
+kaggle.json
+
+# CLIP feature cache
+**/image_features.pt

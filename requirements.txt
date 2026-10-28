@@ -2,3 +2,4 @@ gradio>=4.0
 open-clip-torch
 torch
 Pillow
+kaggle
