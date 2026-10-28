@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.gradio/
+*.log
+*.log.err
+.DS_Store
